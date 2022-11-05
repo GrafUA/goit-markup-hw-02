@@ -14,7 +14,6 @@ body {
 
 .logo {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-size: 26px;
   line-height: 1.94;
   letter-spacing: 0.03em;
@@ -63,8 +62,6 @@ body {
   background-color: #2f303a;
 }
 .main-theme {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -92,7 +89,6 @@ body {
 
 .main-btn {
   font-family: inherit;
-  font-style: normal;
   font-size: 16px;
   line-height: 1.87;
   color: var(--first-title-color);
@@ -175,7 +171,6 @@ body {
 
 .logo-footer {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -195,7 +190,6 @@ body {
 }
 .filter-btn {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
